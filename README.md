@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Thierry Kellenberger
-- 👀 I’m interested in programming in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in programming in Java and working with React and Node.js
+- 🌱 I’m currently learning Java and React
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me: here on GitHub or visit my [LinkedIn profile](https://www.linkedin.com/in/thierry-kellenberger-36308120b)
 - For more information about me, visit my [Webiste](https://thierry.kellyburger.com) (German)
